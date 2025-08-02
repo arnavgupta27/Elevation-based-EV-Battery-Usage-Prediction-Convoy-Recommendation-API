@@ -1,5 +1,11 @@
 # EV Battery Usage Prediction & Convoy Recommendation API
 
+## Video Project Summary 
+```
+https://www.loom.com/share/ad72daaf602245ad8ade4315f1207e62?sid=982d1cff-b2aa-4f87-9ae6-d589546fc869
+```
+---
+
 ## Project Summary
 
 **Project Name:** `batteryconvoy-predictor-api`  
